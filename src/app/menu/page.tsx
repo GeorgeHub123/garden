@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Meniu - Dracula\'s Bite and Bits',
-  description: 'Vizualizați meniul complet al restaurantului Dracula\'s Bite and Bits',
+  title: 'Meniu - Dracula&apos;s Bite and Bits',
+  description: 'Vizualizați meniul complet al restaurantului Dracula&apos;s Bite and Bits',
 };
 
 export default function MenuPage() {

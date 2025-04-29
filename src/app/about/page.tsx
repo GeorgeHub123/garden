@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 export const metadata = {
-  title: "Despre Noi | Dracula's Bite and Bits - Restaurant în București",
-  description: "Află povestea restaurantului Dracula's Bite and Bits din centrul vechi al Bucureștiului, unde bucătăria tradițională românească se întâlnește cu legenda lui Dracula.",
+  title: "Despre Noi | Dracula&apos;s Bite and Bits - Restaurant în București",
+  description: "Află povestea restaurantului Dracula&apos;s Bite and Bits din centrul vechi al Bucureștiului, unde bucătăria tradițională românească se întâlnește cu legenda lui Dracula.",
   keywords: "Dracula, restaurant, București, poveste, mâncare românească, centrul vechi, vampir",
 };
 
@@ -15,7 +15,7 @@ export default function About() {
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-black/80 z-10"></div>
           <Image
             src="/luna&cruce.png"
-            alt="Atmosfera Dracula's Bite and Bits"
+            alt="Atmosfera Dracula&apos;s Bite and Bits"
             fill
             style={{objectFit: "cover"}}
             priority

@@ -21,7 +21,7 @@ export default function Home() {
         
         <div className="container mx-auto px-6 relative z-20 text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 gothic-heading hero-text">
-            Dracula's <span className="dracula-accent">Bite</span> and <span className="dracula-secondary">Bits</span>
+            Dracula&apos;s <span className="dracula-accent">Bite</span> and <span className="dracula-secondary">Bits</span>
           </h1>
           <p className="text-xl md:text-3xl mb-8 font-serif italic hero-text max-w-4xl mx-auto">
             Unde gusturile mușcă și muzica bântuie
@@ -45,7 +45,7 @@ export default function Home() {
               <div className="mb-6 flex justify-center">
                 <Image 
                   src="/cutitsifurculita.png" 
-                  alt="Mâncare la Dracula's Bite and Bits" 
+                  alt="Mâncare la Dracula&apos;s Bite and Bits" 
                   width={80} 
                   height={80} 
                 />
@@ -60,7 +60,7 @@ export default function Home() {
               <div className="mb-6 flex justify-center">
                 <Image 
                   src="/pahar_vin.png" 
-                  alt="Băuturi la Dracula's Bite and Bits" 
+                  alt="Băuturi la Dracula&apos;s Bite and Bits" 
                   width={80} 
                   height={80} 
                 />
@@ -75,7 +75,7 @@ export default function Home() {
               <div className="mb-6 flex justify-center">
                 <Image 
                   src="/prajitura.png" 
-                  alt="Deserturi la Dracula's Bite and Bits" 
+                  alt="Deserturi la Dracula&apos;s Bite and Bits" 
                   width={80} 
                   height={80} 
                 />
